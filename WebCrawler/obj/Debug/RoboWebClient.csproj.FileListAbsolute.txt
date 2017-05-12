@@ -1,0 +1,3 @@
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.csprojResolveAssemblyReference.cache
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.Properties.Resources.resources
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.csproj.GenerateResource.Cache

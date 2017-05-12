@@ -1,0 +1,12 @@
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.Properties.Resources.resources
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\WebCrawler.csproj.GenerateResource.Cache
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\bin\Debug\RoboWebClient.exe
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\bin\Debug\RoboWebClient.pdb
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\bin\Debug\HtmlAgilityPack.dll
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\bin\Debug\HtmlAgilityPack.pdb
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\bin\Debug\HtmlAgilityPack.xml
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.exe
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\RoboWebClient.pdb
+c:\users\majid\documents\visual studio 2015\Projects\RoboWebClient\RoboWebClient\obj\Debug\WebCrawler.Form1.resources
+C:\Users\majid\Documents\visual studio 2015\Projects\WebCrawler\WebCrawler\obj\Debug\RoboWebClient.exe
+C:\Users\majid\Documents\visual studio 2015\Projects\WebCrawler\WebCrawler\obj\Debug\RoboWebClient.pdb
